@@ -176,16 +176,16 @@ Escriba el código Assembler del programa que ejecuta el computador IAS.
 
 #+begin_src asm
 .org 0x300
-LOAD M(940)      ; lado izquierdo
-ADD  M(941)      ; lado derecho
+LOAD M(940)      
+ADD  M(941)      
 
 .org 0x301
-STOR M(940)      ; lado izquierdo
-SUB  M(000)      ; lado derecho
+STOR M(940)      
+SUB  M(000)      
 
 .org 0x302
-STOR M(941)      ; lado izquierdo
-HALT             ; lado derecho
+STOR M(941)      
+HALT             
 
 .org 0x940
 DEC 5
@@ -230,5 +230,6 @@ HALT
 [fn:2]Instruction Set Architecture: los códigos de programación 
 
 [fn:1]Register Transfer Language o Lenguaje de Transferencia de Registros 
+
 
 

@@ -4,8 +4,7 @@
 #+options: inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
 #+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
 #+title: TallerIAS
-#+author: Lenin G. Falconí
-#+email: lenin.falconi@epn.edu.ec
+#+author: Samara Salazar
 #+language: es
 #+select_tags: export
 #+exclude_tags: noexport
@@ -229,3 +228,4 @@ HALT
 [fn:2]Instruction Set Architecture: los códigos de programación 
 
 [fn:1]Register Transfer Language o Lenguaje de Transferencia de Registros 
+
